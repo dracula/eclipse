@@ -16,7 +16,7 @@ A [dracula](https://draculatheme.com/) inspired theme for [Eclipse](https://www.
 
 ## Installation Instructions
 
-1. In Eclipse, to open the desired theme selection window go to `Window > Preferences > DevStyle`.
+1. In Eclipse, to open the desired theme selection window go to `Window > Preferences > DevStyle > Color Theme`.
 2. In Extras section, click import and select `dracula-theme.xml`.
 3. Select `Dracula Theme` from the Editor theme dropdown.
 4. Select `Dark Custom` from the Workbench Theme dropdown.
