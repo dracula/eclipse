@@ -2,7 +2,7 @@
 
 A Dracula inspired [dracula](https://draculatheme.com/) theme for [Eclipse](https://www.eclipse.org/).
 
-![dracula theme](https://github.com/scottzach1/dracula-theme-eclipse/blob/master/screenshot-full.png)
+![dracula theme](https://raw.githubusercontent.com/scottzach1/dracula-theme-eclipse/master/eclipse-screenshot.png)
 
 ## Characteristics
 
@@ -23,9 +23,15 @@ A Dracula inspired [dracula](https://draculatheme.com/) theme for [Eclipse](http
 5. Enter the HSL values of `HSL(231, 15, 18)`. (#282a36 - background).
 6. Restart Eclipse.
 
+![Eclipse Configuration](https://raw.githubusercontent.com/scottzach1/dracula-theme-eclipse/master/eclipse-configuration.png)
+
 ## Experienced Issues
 
 - If the HSL selection menu does not appear for Window theme `Dark Custom`, try restarting Eclipse and reopening the menu.
+
+## Full Screenshot
+
+![Eclipse Screenshot Full](https://raw.githubusercontent.com/scottzach1/dracula-theme-eclipse/master/eclipse-screenshot-full.png)
 
 ## Author
 
