@@ -1,6 +1,6 @@
 # dracula-theme-eclipse (unofficial)
 
-A Dracula inspired [dracula](https://draculatheme.com/) theme for [Eclipse](https://www.eclipse.org/).
+A [dracula](https://draculatheme.com/) inspired theme for [Eclipse](https://www.eclipse.org/).
 
 ![dracula theme](https://raw.githubusercontent.com/scottzach1/dracula-theme-eclipse/master/eclipse-screenshot.png)
 
