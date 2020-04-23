@@ -2,14 +2,14 @@
 <colorTheme id="99999" name="Dracula Theme (unofficial)" modified="2020-04-22 23:27:55" author="Zac Scott (scottzach1)">
     <searchResultIndication color="#44475a" /> <!-- grey -->
     <filteredSearchResultIndication color="#44475a" /> <!-- grey -->
-    <occurrenceIndication color="#282a36" underline="true" /> <!-- background -->
-    <writeOccurrenceIndication color="#282a36" underline="true" /> <!-- background -->
+    <occurrenceIndication color="#44475a" underline="true" /> <!-- background -->
+    <writeOccurrenceIndication color="#44475a" underline="true" /> <!-- background -->
     <findScope color="#44475a" /> <!-- selection -->
     <deletionIndication color="#ffb86c" /> <!-- orange -->
     <sourceHoverBackground color="#8be9fd" /> <!-- cyan -->
     <singleLineComment color="#6272a4" italic="false" /> <!-- comment-->
     <multiLineComment color="#6272a4" italic="false" /> <!-- comment-->
-    <commentTaskTag color="#6272a4" italic="false" underline="true" strikethrough="false" /> <!-- cyan -->
+    <commentTaskTag color="#8be9fd" italic="false" underline="true" strikethrough="false" /> <!-- cyan -->
     <javadoc color="#6272a4" italic="false" /> <!-- comment -->
     <javadocLink color="#8be9fd" italic="false" underline="true" strikethrough="false" /> <!-- cyan -->
     <javadocTag color="#8be9fd" italic="false" /> <!-- cyan -->
