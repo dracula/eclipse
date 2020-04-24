@@ -1,38 +1,21 @@
-# dracula-theme-eclipse (unofficial)
+# Dracula for [Eclipse](https://www.eclipse.org/)
 
-A [dracula](https://draculatheme.com/) inspired theme for [Eclipse](https://www.eclipse.org/).
+> A dark theme for [Eclipse](https://www.eclipse.org/).
 
-![dracula theme](https://raw.githubusercontent.com/scottzach1/dracula-theme-eclipse/master/eclipse-screenshot.png)
+![Screenshot](./screenshot.png)
 
-## Characteristics
+## Install
 
-- Full syntax highlighting for the Eclipse IDE.
-- Control of background of most of the UI elements.
+All instructions can be found at [draculatheme.com/eclipse](https://draculatheme.com/eclipse).
 
-## Prerequisites
+## Team
 
-- [Eclipse IDE](https://www.eclipse.org/) installed on your system.
-- [Darkest Dark](https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle) plugin from the Eclipse Marketplace.
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-## Installation Instructions
+[![Zac Scott](https://avatars2.githubusercontent.com/u/38968222?v=3&s=70)](https://github.com/scottzach1) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
+--- | ---
+[Zac Scott](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
 
-1. In Eclipse, to open the desired theme selection window go to `Window > Preferences > DevStyle > Color Theme`.
-2. In Extras section, click import and select `dracula-theme.xml`.
-3. Select `Dracula Theme` from the Editor theme dropdown.
-4. Select `Dark Custom` from the Workbench Theme dropdown.
-5. Enter the HSL values of `HSL(231, 15, 18)`. (#282a36 - background).
-6. Restart Eclipse.
+## License
 
-![Eclipse Configuration](https://raw.githubusercontent.com/scottzach1/dracula-theme-eclipse/master/eclipse-configuration.png)
-
-## Experienced Issues
-
-- If the HSL selection menu does not appear for Window theme `Dark Custom`, try restarting Eclipse and reopening the menu.
-
-## Full Screenshot
-
-![Eclipse Screenshot Full](https://raw.githubusercontent.com/scottzach1/dracula-theme-eclipse/master/eclipse-screenshot-full.png)
-
-## Author
-
-- Zac Scott
+[MIT License](./LICENSE)
