@@ -29,7 +29,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/dracula/arc
 
 > See Screenshot for clarifications below.
 
-![Eclipse Configuration](./configuration.png)
+![Eclipse Configuration](https://raw.githubusercontent.com/dracula/eclipse/master/configuration.png)
 
 #### Touble shooting
 
