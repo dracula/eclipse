@@ -1,4 +1,4 @@
-### Dracula for [Eclipse](https://www.eclipse.org/)
+### [Eclipse](https://www.eclipse.org/)
 
 #### Install using Git
 
