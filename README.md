@@ -14,7 +14,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 [![Zac Scott](https://avatars2.githubusercontent.com/u/38968222?v=3&s=70)](https://github.com/scottzach1) |
 --- |
-[Zac Scott](https://github.com/https://github.com/scottzach1) |
+[Zac Scott](https://github.com/scottzach1) |
 
 ## License
 
