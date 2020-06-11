@@ -10,7 +10,7 @@ Note: You will need to change theme and reimport `dracula-theme.xml` to update t
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/dracula/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/eclipse/archive/master.zip) option and unzip them.
 
 #### Prerequisites
 
