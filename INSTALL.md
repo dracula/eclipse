@@ -4,7 +4,7 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/eclipse.git
+    git clone https://github.com/dracula/eclipse.git
 
 Note: You will need to change theme and reimport `dracula-theme.xml` to update theme in Eclipse.
 
